@@ -1,0 +1,12 @@
+
+
+.mobile_menu_button span {
+    cursor: pointer;
+    display: table-cell;
+    font-size: 44px;
+    height: 17px;
+    position: relative;
+    vertical-align: middle;
+    width: 19px;
+    z-index: 50;
+}
